@@ -2,7 +2,7 @@
 
 <img src="public/images/logo.png" alt="SOYUNÉ Logo" width="180" />
 
-# SOYUNÉ — Korean Skincare
+# SOYUNÉ Korean Skincare
 
 ### The Art of Skin That Glows.
 
