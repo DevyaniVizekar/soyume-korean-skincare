@@ -1,63 +1,126 @@
-# SOYUNÉ Premium Korean-Inspired Skincare Store
+ <div align="center">
 
-A responsive React + Vite portfolio e-commerce concept for SOYUNÉ. The brand, products, customer reviews and editorial content are fictional portfolio material; no real products are sold and no payment is collected.
+<img src="public/images/logo.png" alt="SOYUNÉ Logo" width="180" />
 
-## Requirements
-- Node.js 18 or newer (Node.js 20 LTS recommended)
-- npm 9 or newer
+# SOYUNÉ — Korean Skincare
 
-## Run locally
+### The Art of Skin That Glows.
 
-1. Extract the ZIP and open the `soyune-skincare` folder in VS Code.
-2. Open a terminal in that folder.
-3. Install the pinned dependencies:
+*A little more care. A little more you.*
 
-   ```bash
-   npm install
-   ```
+A premium Korean skincare e-commerce experience inspired by the elegance of K-beauty, thoughtfully designed to celebrate healthy, hydrated, naturally radiant skin.
 
-4. Start the development server:
+<br/>
 
-   ```bash
-   npm run dev
-   ```
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-5. Open the local URL printed by Vite (usually `http://localhost:5173`).
+</div>
 
-## Production build
+---
+
+## 🌸 About SOYUNÉ
+
+SOYUNÉ is a luxury-inspired Korean skincare storefront that brings together minimal aesthetics, thoughtful product presentation, and a refined digital shopping experience.
+
+Inspired by the philosophy of gentle skincare rituals, the website combines soft blush tones, elegant typography, editorial imagery, and sophisticated layouts to create a premium beauty destination.
+
+Every detail is designed to make skincare feel less like a routine and more like a moment of self-care.
+
+## ✨ Premium Features
+
+- **Elegant Landing Page** — A visually immersive hero section with premium skincare imagery and refined typography.
+- **Curated Collections** — Explore skincare categories including Hydration, Skin Barrier, Brightening, Anti-Aging, Acne & Blemishes, Cleansers, and Lip Care.
+- **Premium Product Showcase** — Beautiful product cards featuring high-quality imagery, product descriptions, pricing, and ratings.
+- **Smart Product Discovery** — Browse products using category filters, search, price filters, and sorting options.
+- **Bestseller Collection** — Discover carefully curated skincare essentials.
+- **Wishlist Experience** — Save favourite skincare products for later.
+- **Shopping Bag Interface** — A dedicated shopping experience for selected products.
+- **Editorial Journal** — Discover skincare insights, Korean glass-skin rituals, hydration guides, and skin barrier education.
+- **Featured Product Sections** — Dedicated promotional layouts highlighting signature skincare essentials.
+- **Responsive Design** — A polished interface designed to adapt across different screen sizes.
+- **Luxury Visual Identity** — Soft blush palettes, muted mauve accents, elegant serif typography, and generous whitespace.
+
+## 🧴 Explore the Collections
+
+| Collection | Description |
+|:---|:---|
+| 💧 Hydration | Restore moisture and achieve a fresh, dewy appearance. |
+| 🌿 Skin Barrier | Support and nourish the skin barrier. |
+| ✨ Brightening | Enhance your natural-looking radiance. |
+| 🌸 Anti-Aging | Thoughtful skincare focused on skin renewal. |
+| 🫧 Acne & Blemishes | Gentle care for clearer-looking skin. |
+| 🤍 Cleansers | A refreshing beginning to every skincare ritual. |
+| 💋 Lip Care | Keep lips soft, smooth, and nourished. |
+
+## 🎨 Design Philosophy
+
+SOYUNÉ embraces a minimal yet luxurious design language.
+
+- Soft blush and ivory colour palette.
+- Elegant editorial-style typography.
+- Premium skincare-inspired imagery.
+- Clean product grids and balanced spacing.
+- Subtle interactive elements and refined details.
+- A calm, sophisticated Korean beauty aesthetic.
+
+## 💻 Tech Stack
+
+| Technology | Purpose |
+|:---|:---|
+| React.js | Component-based user interface |
+| JavaScript | Interactive functionality |
+| HTML5 | Semantic page structure |
+| CSS3 | Styling, layouts, and responsive design |
+| Vite | Development server and build tooling |
+
+## 🚀 Getting Started
+
+Follow these steps to run SOYUNÉ locally.
+
+**1. Clone the repository**
 
 ```bash
-npm run build
-npm run preview
+git clone https://github.com/DevyaniVizekar/soyume-korean-skincare.git
 ```
 
-The production files are generated in `dist/`.
+**2. Navigate to the project directory**
 
-## Features
-- Responsive homepage, shop, product details, about, journal and cart routes
-- 15 product concepts with product photography
-- Product search, category and price filters, sorting
-- Add to bag, quantity updates, remove item and dynamic totals
-- Wishlist and shopping cart saved in localStorage
-- Newsletter email validation (front-end demo only)
-- Accessible labels, semantic page structure and reduced-motion support
-- Full-frame product photography using contain-fit layouts instead of aggressive cropping
-- Portrait-first hero and editorial layouts with responsive image proportions
-- Optimized WebP photography, responsive image sizing and high-priority hero loading
-- Subtle entrance and product motion with reduced-motion accessibility support
+```bash
+cd soyume-korean-skincare
+```
 
-## Technology
-- React 18
-- Vite 5
-- React Router 6
-- Lucide React icons
-- CSS Grid, Flexbox and responsive media queries
+**3. Install dependencies**
 
-## Project notes
-- No backend, account system, mailing service or payment gateway is connected.
-- Sample review content is explicitly labelled as fictional.
-- Product descriptions are illustrative and are not medical claims.
-- The SOYUNÉ identity is a fictional Korean-inspired concept brand, not an established Korean manufacturer.
-- The supplied logo and optimized WebP model/product image assets are stored under `public/images/`.
-- Original product photos were small source files, so the supplied product images were enlarged 4× with careful resampling and sharpening. Upscaling improves display size and perceived crispness, but cannot recreate detail absent from the original photography. Model portraits were enlarged modestly and kept uncropped in the main editorial placements.
-- The footer's Instagram glyph is an inline SVG, not an icon-package export, avoiding the missing `Instagram` named-export error from the previous ZIP.
+```bash
+npm install
+```
+
+**4. Start the development server**
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal to explore the website.
+
+## 👩🏻‍💻 Created By
+
+**Devyani Vizekar**
+
+Designed and developed with creativity, attention to detail, and a passion for elegant web experiences.
+
+---
+
+<div align="center">
+
+### SOYUNÉ
+
+*Your skin. Your ritual. Your glow.*
+
+♡ Crafted with care.
+
+</div>
