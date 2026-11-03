@@ -1,4 +1,4 @@
-# SOYUNÉ — Premium Korean-Inspired Skincare Store
+# SOYUNÉ Premium Korean-Inspired Skincare Store
 
 A responsive React + Vite portfolio e-commerce concept for SOYUNÉ. The brand, products, customer reviews and editorial content are fictional portfolio material; no real products are sold and no payment is collected.
 
