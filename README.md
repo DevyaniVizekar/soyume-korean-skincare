@@ -10,14 +10,6 @@
 
 A premium Korean skincare e-commerce experience inspired by the elegance of K-beauty, thoughtfully designed to celebrate healthy, hydrated, naturally radiant skin.
 
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-
 </div>
 
 ---
@@ -29,6 +21,16 @@ SOYUNÉ is a luxury-inspired Korean skincare storefront that brings together min
 Inspired by the philosophy of gentle skincare rituals, the website combines soft blush tones, elegant typography, editorial imagery, and sophisticated layouts to create a premium beauty destination.
 
 Every detail is designed to make skincare feel less like a routine and more like a moment of self-care.
+
+## 💻 Technology Stack
+
+Built using modern web technologies:
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
 
 ## ✨ Premium Features
 
